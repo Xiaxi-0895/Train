@@ -24,6 +24,7 @@
     <modules>
         <module>member</module>
         <module>common</module>
+        <module>gateway</module>
     </modules>
     <scm>
         <connection/>
@@ -51,11 +52,7 @@
     </pluginRepositories>
 
     <dependencies>
-        <dependency>
-            <groupId>com.xiaxi</groupId>
-            <artifactId>common</artifactId>
-            <scope>compile</scope>
-        </dependency>
+
     </dependencies>
 
     <dependencyManagement>
